@@ -99,3 +99,12 @@ html {
     display: flex;
     justify-content: center;
   }
+  .buy{
+    position:relative;
+    left:890px;
+  }
+  .customize{
+    position:relative;
+    top:30px;
+    left: 220px;
+  }
