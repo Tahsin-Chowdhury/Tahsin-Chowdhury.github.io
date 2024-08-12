@@ -83,4 +83,15 @@ html {
     display:flex;
     justify-content: center;
   }
-  
+  .hoodie{
+    display:flex;
+    justify-content: space-around;
+  }
+  .uno{
+    border: 5px solid black;
+    width:350px;
+    height:350px;
+  }
+  .italy{
+    font-family:italic;
+  }
