@@ -108,3 +108,10 @@ html {
     top:30px;
     left: 220px;
   }
+  .shack{
+    font-family: italic;
+  }
+  .paris{
+    display: flex;
+    justify-content: center;
+  }
