@@ -76,22 +76,26 @@ html {
     height:100px;
   }
   .shou{
-    display:flex;
+    display: flex;
     justify-content: center;
   }
   .colors{
-    display:flex;
+    display: flex;
     justify-content: center;
   }
   .hoodie{
-    display:flex;
+    display: flex;
     justify-content: space-around;
   }
   .uno{
     border: 5px solid black;
-    width:350px;
-    height:350px;
+    width: 350px;
+    height: 350px;
   }
   .italy{
-    font-family:italic;
+    font-family: italic;
+  }
+  .france{
+    display: flex;
+    justify-content: center;
   }
