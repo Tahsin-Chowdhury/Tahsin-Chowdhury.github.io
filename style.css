@@ -1,0 +1,86 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    background-image: linear-gradient(lightblue,white);
+    background-attachment:fixed;
+  }
+  .col{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .logo{
+    width:70px;
+    border-radius: 50%;
+    border:2px solid black;
+  }
+  .vre{
+    height:400px;
+    width:700px;
+    background-color: black;
+    position:relative;
+    right:420px;
+    top:50px;
+  
+  }
+  .navbar{
+    height:60px;
+    background-color: skyblue;
+  }
+  .title-row{
+    height:500px;
+  }
+  .explanation{
+    font-style: italic;
+    margin: 300px;
+    position:relative;
+    left: 450px;
+    bottom: 650px;
+    
+  }
+  .about{
+    color:black;
+    font-family:monospace;
+  }
+  .idea{
+    color:black;
+    font-family:monospace;
+  }
+  .brand{
+    color:black;
+    font-family:monospace;
+  }
+  .second{
+    display:none;
+  }
+  .imgspace{
+    height:50px;
+  }
+  .garden{
+    width:400px;
+    height:450px;
+    position:relative;
+    left:450px;
+    border-radius:50%;
+    border:10px solid darkblue;
+  }
+  .one{
+    height:50px;
+  }
+  .third{
+    display:none;
+  }
+  .layout{
+    height:100px;
+  }
+  .shou{
+    display:flex;
+    justify-content: center;
+  }
+  .colors{
+    display:flex;
+    justify-content: center;
+  }
+  
